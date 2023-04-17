@@ -1,0 +1,64 @@
+
+body {
+font-family: "Dosis" ,"Open Sans";
+}
+
+#alfa img {
+margin: 72px;
+
+}
+
+#alfa {
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+
+}
+#beta {
+    width: 540px;
+    height: 107px;
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+color: #828282;
+}
+#beta strong  {
+    color: #3F3D56;
+}
+
+#omega {
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+}
+
+h1 {
+font-size: 32px;
+color: #3F3D56 ;
+
+}
+
+h1 span {
+    font-size: 32px;
+    color: #EE24FF;
+}
+
+
+footer {
+    display: flex;
+
+
+}
+
+#wave{
+   
+
+    display: flex;
+
+}
