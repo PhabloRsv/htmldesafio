@@ -1,6 +1,9 @@
 
 body {
 font-family: "Dosis" ,"Open Sans";
+text-align: center;
+margin: 0;
+
 }
 
 #alfa img {
@@ -17,8 +20,6 @@ text-align: center;
 
 }
 #beta {
-    width: 540px;
-    height: 107px;
 font-style: normal;
 font-weight: 400;
 font-size: 15px;
@@ -36,6 +37,7 @@ font-weight: 400;
 font-size: 15px;
 line-height: 22px;
 text-align: center;
+color: #828282;
 }
 
 h1 {
@@ -50,15 +52,12 @@ h1 span {
 }
 
 
-footer {
-    display: flex;
+footer  a {
+    text-decoration: none;
+    color: #3F3D56;
+    padding-right: 20px;
 
 
-}
-
-#wave{
-   
-
-    display: flex;
 
 }
+
